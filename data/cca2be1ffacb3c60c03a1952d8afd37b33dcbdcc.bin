@@ -1,0 +1,6 @@
+
+<--- Last few GCs --->
+cr[2824:000001C392DC1E00]   193935 ms: Mark-sweep (reduce) 54.8 (87.2) -> 37.0 (39.6) MB, 19.3 / 0.0 ms  (+ 0.6 ms in 12 steps since start of marking, biggest step 0.1 ms, walltime since start of marking 72 ms) (average mu = 0.997, current mu = 0.998) final[2824:000001C392DC1E00]   203795 ms: Mark-sweep (reduce) 38.0 (39.8) -> 36.6 (39.8) MB, 230.2 / 0.0 ms  (+ 0.1 ms in 2 steps since start of marking, biggest step 0.1 ms, walltime since start of marking 259 ms) (average mu = 0.986, current mu = 0.977) fina
+
+<--- JS stacktrace --->
+
