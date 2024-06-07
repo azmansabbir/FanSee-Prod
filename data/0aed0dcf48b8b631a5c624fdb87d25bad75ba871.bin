@@ -1,0 +1,4 @@
+13: 00007FF6EC16CBEC v8::internal::Builtins::code_handle+172460
+14: 00007FF6EC16CA50 v8::internal::Builtins::code_handle+172048
+15: 00007FF6EC240131 v8::internal::SetupIsolateDelegate::SetupHeap+494641
+16: 0000023ACBE5591C 
