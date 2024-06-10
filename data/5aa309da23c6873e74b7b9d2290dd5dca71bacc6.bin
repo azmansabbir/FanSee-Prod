@@ -1,0 +1,9 @@
+
+<--- Last few GCs --->
+
+[5300:00000263BD227510]   166286 ms: Mark-sweep 54.2 (56.7) -> 37.3 (41.3) MB, 35.4 / 0.0 ms  (average mu = 0.623, current mu = 0.600) external memory pressure GC in old space requested
+[5300:00000263BD227510]   166302 ms: Scavenge 45.8 (49.6) -> 45.8 (49.6) MB, 0.4 / 0.0 ms  (average mu = 0.623, current mu = 0.600) allocation failure 
+
+
+<--- JS stacktrace --->
+
