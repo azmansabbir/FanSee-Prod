@@ -1,0 +1,6 @@
+
+<--- Last few GCs --->
+
+[6700:0000015E65A31430]   206423 ms: Scavenge 41.0 (43.9) -> 39.2 (42.1) MB, 1.1 / 0.0 ms  (average mu = 0.994, current mu = 0.998) allocation failure 
+[6700:0000015E65A31430]   206426 ms: Scavenge 41.0 (43.9) -> 41.0 (43.9) MB, 0.7 / 0.0 ms  (average mu = 0.994, current mu = 0.998) allocation failure 
+
