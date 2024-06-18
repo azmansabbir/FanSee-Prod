@@ -1,0 +1,10 @@
+13: 00007FF63DECF2CB uv_async_send+331
+14: 00007FF63DECEA5C uv_loop_init+1292
+15: 00007FF63DECEBFA uv_run+202
+16: 00007FF63DE9DD05 node::SpinEventLoop+325
+17: 00007FF63DDB42B1 cppgc::internal::Marker::visitor+57937
+18: 00007FF63DE332DA node::Start+202
+19: 00007FF63DC5870C RC4_options+347660
+20: 00007FF63ECB7CD8 v8::internal::compiler::RepresentationChanger::Uint32OverflowOperatorFor+14520
+21: 00007FF9CACE4CB0 BaseThreadInitThunk+16
+22: 00007FF9CC03E8AB RtlUserThreadStart+43

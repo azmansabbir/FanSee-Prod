@@ -1,0 +1,5 @@
+
+<--- Last few GCs --->
+
+[2364:000001D3AB6BBE80]   205642 ms: Scavenge (reduce) 37.9 (42.3) -> 37.0 (42.3) MB, 1.7 / 0.0 ms  (average mu = 0.995, current mu = 0.999) allocation failure 
+[2364:000001D3AB6BBE80]   205687 ms: Mark-sweep (reduce) 37.2 (42.3) -> 37.0 (39.8) MB, 42.0 / 0.0 ms  (+ 4.5 ms in 19 steps since start of marking, biggest step 2.4 ms, walltime since start of marking 123 ms) (average mu = 0.995, current mu = 0.995) fina

@@ -1,0 +1,9 @@
+ 4: 00007FF63E732374 v8::Isolate::ReportExternalAllocationLimitReached+116
+ 5: 00007FF63E71C93D v8::SharedArrayBuffer::Externalize+781
+ 6: 00007FF63E5BFEBC v8::internal::Heap::EphemeronKeyWriteBarrierFromCode+1468
+ 7: 00007FF63E5C9BDF v8::internal::Heap::PageFlagsAreConsistent+3007
+ 8: 00007FF63E5BC799 v8::internal::Heap::CollectGarbage+2137
+ 9: 00007FF63E5BFFCB v8::internal::Heap::FinalizeIncrementalMarkingAtomically+267
+10: 00007FF63E5B4AAF v8::base::CPU::is_fp64_mode+415
+11: 00007FF63DD900BD node::TriggerNodeReport+53325
+12: 00007FF63DD8E8B6 node::TriggerNodeReport+47174
