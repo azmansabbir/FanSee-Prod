@@ -1,0 +1,9 @@
+
+<--- Last few GCs --->
+
+[6120:0000025AB1EB6610]   161690 ms: Scavenge 57.4 (63.2) -> 49.0 (58.9) MB, 1.3 / 0.0 ms  (average mu = 0.914, current mu = 0.952) allocation failure 
+[6120:0000025AB1EB6610]   161873 ms: Scavenge 57.3 (67.2) -> 57.3 (67.2) MB, 2.1 / 0.0 ms  (average mu = 0.914, current mu = 0.952) allocation failure 
+
+
+<--- JS stacktrace --->
+
