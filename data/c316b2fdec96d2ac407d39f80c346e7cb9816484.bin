@@ -1,0 +1,6 @@
+
+<--- Last few GCs --->
+
+[1488:000002220DE4EA40]   135730 ms: Mark-sweep (reduce) 54.3 (89.9) -> 36.9 (40.3) MB, 40.0 / 0.0 ms  (average mu = 0.987, current mu = 0.974) last resort GC in old space requested
+[1488:000002220DE4EA40]   135812 ms: Mark-sweep (reduce) 36.9 (40.3) -> 36.9 (39.8) MB, 82.5 / 0.1 ms  (average mu = 0.948, current mu = 0.000) last resort GC in old space requested
+
