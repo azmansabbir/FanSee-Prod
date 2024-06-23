@@ -1,0 +1,8 @@
+
+<--- Last few GCs --->
+
+[4328:0000024C030361B0]   136821 ms: Mark-sweep 70.8 (107.0) -> 53.8 (90.9) MB, 16.2 / 0.0 ms  (+ 0.4 ms in 4 steps since start of marking, biggest step 0.1 ms, walltime since start of marking 88 ms) (average mu = 0.943, current mu = 0.866) finalize incre[4328:0000024C030361B0]   137579 ms: Scavenge 62.5 (99.2) -> 62.4 (99.2) MB, 1.5 / 0.0 ms  (average mu = 0.943, current mu = 0.866) allocation failure 
+
+
+<--- JS stacktrace --->
+
