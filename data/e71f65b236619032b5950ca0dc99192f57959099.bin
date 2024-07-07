@@ -1,0 +1,8 @@
+
+<--- Last few GCs --->
+
+[6536:000002057CE810F0]   225620 ms: Mark-sweep (reduce) 37.7 (40.3) -> 36.9 (40.6) MB, 62.8 / 0.0 ms  (+ 0.1 ms in 3 steps since start of marking, biggest step 0.1 ms, walltime since start of marking 718 ms) (average mu = 0.985, current mu = 0.990) final[6536:000002057CE810F0]   257291 ms: Scavenge 38.1 (40.6) -> 37.3 (40.6) MB, 11.8 / 0.0 ms  (average mu = 0.985, current mu = 0.990) allocation failure 
+
+
+<--- JS stacktrace --->
+
