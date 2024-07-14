@@ -1,0 +1,7 @@
+
+<--- Last few GCs --->
+
+[3596:00000224217C2B40]   202979 ms: Scavenge 79.9 (114.1) -> 74.2 (109.4) MB, 2.7 / 0.0 ms  (average mu = 0.965, current mu = 0.949) allocation failure 
+[3596:00000224217C2B40]   203173 ms: Scavenge 82.6 (117.7) -> 74.2 (109.4) MB, 2.2 / 0.0 ms  (average mu = 0.965, current mu = 0.949) allocation failure 
+[3596:00000224217C2B40]   203210 ms: Scavenge 86.1 (121.2) -> 86.1 (121.2) MB, 2.5 / 0.0 ms  (average mu = 0.965, current mu = 0.949) allocation failure 
+
