@@ -1,0 +1,7 @@
+
+<--- Last few GCs --->
+
+[1528:0000021CDDBAA080]   282023 ms: Scavenge 44.9 (46.8) -> 44.3 (47.1) MB, 1.7 / 0.0 ms  (average mu = 0.996, current mu = 0.997) allocation failure 
+[1528:0000021CDDBAA080]   282073 ms: Scavenge 45.1 (47.1) -> 44.4 (47.1) MB, 1.4 / 0.0 ms  (average mu = 0.996, current mu = 0.997) allocation failure 
+[1528:0000021CDDBAA080]   282090 ms: Scavenge 45.4 (47.1) -> 44.6 (47.3) MB, 1.1 / 0.0 ms  (average mu = 0.996, current mu = 0.997) allocation failure 
+
