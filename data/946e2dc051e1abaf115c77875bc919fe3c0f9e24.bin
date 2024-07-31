@@ -1,0 +1,18 @@
+ 5: 00007FF7DAE8C93D v8::SharedArrayBuffer::Externalize+781
+ 6: 00007FF7DAD2FEBC v8::internal::Heap::EphemeronKeyWriteBarrierFromCode+1468
+ 7: 00007FF7DAD39BDF v8::internal::Heap::PageFlagsAreConsistent+3007
+ 8: 00007FF7DAD2C799 v8::internal::Heap::CollectGarbage+2137
+ 9: 00007FF7DAD2FFCB v8::internal::Heap::FinalizeIncrementalMarkingAtomically+267
+10: 00007FF7DAD24AAF v8::base::CPU::is_fp64_mode+415
+11: 00007FF7DA5000BD node::TriggerNodeReport+53325
+12: 00007FF7DA4FE8B6 node::TriggerNodeReport+47174
+13: 00007FF7DA63F2CB uv_async_send+331
+14: 00007FF7DA63EA5C uv_loop_init+1292
+15: 00007FF7DA63EBFA uv_run+202
+16: 00007FF7DA60DD05 node::SpinEventLoop+325
+17: 00007FF7DA5242B1 cppgc::internal::Marker::visitor+57937
+18: 00007FF7DA5A32DA node::Start+202
+19: 00007FF7DA3C870C RC4_options+347660
+20: 00007FF7DB427CD8 v8::internal::compiler::RepresentationChanger::Uint32OverflowOperatorFor+14520
+21: 00007FFF9E214CB0 BaseThreadInitThunk+16
+22: 00007FFF9EFFECEB RtlUserThreadStart+43

@@ -1,0 +1,4 @@
+
+<--- Last few GCs --->
+
+[4916:000001A69C36B920]   214893 ms: Mark-sweep (reduce) 61.7 (91.0) -> 36.4 (40.1) MB, 17.0 / 0.0 ms  (+ 214.4 ms in 358 steps since start of marking, biggest step 27.2 ms, walltime since start of marking 249 ms) (average mu = 0.984, current mu = 0.985) 
